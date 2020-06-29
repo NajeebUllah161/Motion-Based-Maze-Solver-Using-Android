@@ -11,7 +11,7 @@ int RX = 12;
 // Center servos
 int servo1Angle = 90;
 
-
+//
 SoftwareSerial HC_06(TX, RX);  //Bluetooth TX to 10 and Bluetooth RX to 11.
 
 void setup()
