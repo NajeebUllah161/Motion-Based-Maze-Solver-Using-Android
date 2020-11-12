@@ -1,0 +1,8 @@
+The android application consists of three modules:
+
+1) Controlling servomotor movements ( Clock/Anti-clock)  via button press from an adroid app.
+
+2) Controlling servomotor movements ( Clock/Anti-clock) using Android's built-in Orientation sensor readings(in Degree radian for both X/Y plane).
+
+3) Selecting a 2D image of your practical maze design and the AI algorithm will solve the maze, Generate a path, Convert path into real life instructions ( Left = 1, Right = 3 , Forward =2 , Backward =4 ) 
+   and then use these instructions to create steps which moves Servomotors and solve the maze itself.
